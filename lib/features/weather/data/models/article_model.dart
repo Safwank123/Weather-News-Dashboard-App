@@ -26,4 +26,8 @@ class ArticleModel extends Article {
       isBookmarked: false,
     );
   }
+
+  String get url => null;
+
+  ArticleModel copyWith({required bool isBookmarked}) {}
 }

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:weather_and_news_dashboard_app/features/news/presentation/pages/news_page.dart';
 import 'package:weather_and_news_dashboard_app/features/weather/presentation/pages/weather_page.dart';
 
 
